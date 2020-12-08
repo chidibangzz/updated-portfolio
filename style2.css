@@ -193,7 +193,13 @@ body {
      float: left;
  }
 
+.linkedin {
+    color: white;
+}
 
+.github {
+    color: white;
+}
 
  .tabs li.active {
      background: url(tab-hover.png) no-repeat;   
@@ -242,3 +248,103 @@ body {
      font-family: 'Oswald', sans-serif;
      margin-left: 10px;
  }
+
+
+
+.
+
+ /* portfolio section */
+ .section-title{
+        text-align: center;
+        padding: 15px 20px 20px 10px;
+        color: rgba(128, 0, 0, 0.877);
+ }
+
+ .section-title {
+    text-align: center;
+    padding: 15px 25px 20px 25px;
+    color: rgba(128, 0, 0, 0.877);
+    border: solid;
+    margin-left: 20px;
+    margin-right: 20px;
+ }
+
+ .gallery {
+     border: 20px solid;
+     margin-top: 10px;
+     color: rgba(128, 0, 0, 0.877);
+     background-color: white;
+     width: 800px;
+ }
+
+ .section-title h1 {
+      color: rgba(128, 0, 0, 0.877);
+ }
+
+ .apps {
+     border: solid;
+     border-width: 10px;
+     margin-top: 10px;
+     margin-bottom: 10px;
+ }
+
+ /* the image */
+ .apps a{
+     display: flex;
+     margin-bottom: 30px;
+     border-width: 10px;
+     color:white;
+ }
+
+li.screenshots {
+    display: flex;
+    flex-direction: row;
+
+}
+.caption {
+    margin-top: 100px;
+    padding: 0 0 0 15px;
+}
+
+
+
+
+
+
+/* resume portion */
+h1.resume-pdf {
+    text-align: center;
+    
+}
+
+.resume-pic {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.footer-pics {
+    text-align: center;
+    
+}
+
+
+/* contact area */
+textarea {
+    align-items: center;
+}
+
+#contact {
+    margin-top: 40px;
+
+}
+
+.contact-title {
+    float: left;
+    align-self: center;
+}
+
+.text-me {
+    margin-left: 52px;
+}
