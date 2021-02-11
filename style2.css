@@ -244,48 +244,63 @@ body {
  
  #logo h4 {
      color: #555;
-     line-height: 20px;
+     line-height: 10px;
      font-family: 'Oswald', sans-serif;
      margin-left: 10px;
+     margin-bottom: 10px;
  }
 
 
 
-.
+
 
  /* portfolio section */
- .section-title{
-        text-align: center;
-        padding: 15px 20px 20px 10px;
-        color: rgba(128, 0, 0, 0.877);
- }
+
 
  .section-title {
     text-align: center;
     padding: 15px 25px 20px 25px;
-    color: rgba(128, 0, 0, 0.877);
-    border: solid;
+    color: grey;
+    border: 8px dotted;
     margin-left: 20px;
     margin-right: 20px;
+    background-color: (128, 0, 0, 0.877);
+    border-radius: 25px;
  }
 
  .gallery {
-     border: 20px solid;
+     
      margin-top: 10px;
      color: rgba(128, 0, 0, 0.877);
-     background-color: white;
+     opacity: 80;
+     
      width: 800px;
  }
 
  .section-title h1 {
       color: rgba(128, 0, 0, 0.877);
+      text-shadow:
+    0.07em 0 white,
+    0 0.07em white,
+    -0.07em 0 white,
+    0 -0.07em white;   
+    
+      
  }
 
  .apps {
-     border: solid;
-     border-width: 10px;
-     margin-top: 10px;
-     margin-bottom: 10px;
+
+     border: 5px;
+     border-width: 5px;
+     margin-top: 5px;
+     margin-bottom: 5px;
+     text-shadow:
+    0.07em 0 white,
+    0 0.07em white,
+    -0.07em 0 white,
+    0 -0.07em white;   
+    border-radius: 90px;
+    
  }
 
  /* the image */
@@ -299,8 +314,13 @@ body {
 li.screenshots {
     display: flex;
     flex-direction: row;
-
+    border-radius: 25px;
+  
 }
+
+
+
+
 .caption {
     margin-top: 100px;
     padding: 0 0 0 15px;
@@ -348,3 +368,4 @@ textarea {
 .text-me {
     margin-left: 52px;
 }
+
