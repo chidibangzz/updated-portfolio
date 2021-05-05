@@ -25,7 +25,7 @@ Main Features:
 
 ## Application-Preview
 
-![ProGamer Home Page](/Users/chidibangzz/updated-portfolio/Screen Shot 2021-05-05 at 5.38.34 PM.png)
+![Portfolio](portfolio.png)
 
 ## Technologies
 
