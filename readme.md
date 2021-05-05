@@ -1,6 +1,6 @@
 # Porfolio
 ## Description
-This is Javascript phenomenom based application is intended to highlight my accomplishments as a developer and show off passion for developing., and discover new and exciting games. This Javacript based application includes information about myself, my resume, links to get to my pinned projects and bouncing animations so enjoy the fun.
+This Porfolio is a Javascript phenomenom based application it is intended to highlight my accomplishments as a developer and show off passion for creating beautiful, creative content. This Javacript based application includes information about myself, my resume, links to get to my top projects and bouncing animations so enjoy the fun.
 
 ## Table of Contents
 
