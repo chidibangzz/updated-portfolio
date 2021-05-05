@@ -1,39 +1,67 @@
-## Project title
-This Portfolio highlights my skills and creativity in the web ineraction and displays my professional resume
+# Porfolio
+## Description
+This is Javascript phenomenom based application is intended to highlight my accomplishments as a developer and show off passion for developing., and discover new and exciting games. This Javacript based application includes information about myself, my resume, links to get to my pinned projects and bouncing animations so enjoy the fun.
 
-## Motivation
-I wanted a unique simple design that was easy to read and simpele to navivigate through, I also wanted the activity of the page to be in the middle of the page. I wanted my portfolio page to be dynamic so that is why i decided to add some boucing animations to keep the user engaged.
+## Table of Contents
 
- 
-## Screenshots
-
-
-## Tech/framework used
-Bootstrap
-
-<b>Built with</b>
-- [Electron](https://electron.atom.io)
-
-## Features
-What makes your project stand out?
+* [Features](#Features)
+* [Links](#Links)
+* [Application-Preview](#Application-Preview)
+* [Technologies](#Technologies)
+* [Reference](#Reference)
+* [Credits](#Credits)
+* [Contributors](#Contributors)
+* [License](#License)
 
 
-## How to use?
-When user loads page there is animation boucing icon
-When user clics on remume icon, there will diplayed a link to my resume
-When user clicks on porfolio icon they will see a list of my projects and will be directed to my github
-when user clicks contact they will be given a message box where we can communicate
+## Features 
+Main Features:
 
-## Contribute
+* A fully functional home page that allows users to navigate to other parts of the website
+## Links
 
-Please feel free contritbute to my project by contacting me  A [contributing guideline](https://www.linkedin.com/in/chidi-ekeke-038609172/
+* Project Repo: [Repository](https://github.com/chidibangzz/updated-portfolio)
+* Deployed Project Repo: [Website](https://chidibangzz.github.io/updated-portfolio/)
+
+## Application-Preview
+
+![ProGamer Home Page](/Users/chidibangzz/updated-portfolio/Screen Shot 2021-05-05 at 5.38.34 PM.png)
+
+## Technologies
+
+* Javascript
+* HTML
+* CSS
+* [Boostrap](https://getbootstrap.com/)
+* [NodeJS](https://nodejs.dev/)
+
+
+## References
+
+These are the websites we used as references: 
+
+> - [StackOverflow](https://www.stackoverflow.com/) || Most issues we had were resolved from looking at other people's problems.
+
+How to create a good README here: 
+> - [GitHub Docs](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax) || Learned most of my README syntax here.
+> - [Akash Nimare](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3) || Based my README from his guide.
+> - [Mark Down Guide](https://www.markdownguide.org/cheat-sheet/) || README Syntax
+
 ## Credits
-Jim fahad Digital
-https://www.youtube.com/watch?v=AJjGCzrFz3Y&ab_channel=JimFahadDigital
 
-#### Anything else that seems useful
+> - [Porfolio-ideas](https://www.squarespace.com/websites/create-a-portfolio/?channel=pnb&subchannel=go&campaign=pnb-dr-go-us-en-verticals-bmm&subcampaign=(verticals-portfolio_portfolio_bmm)&utm_source=google&utm_medium=pnb&utm_campaign=pnb-dr-go-us-en-verticals-bmm&utm_term=%2Bportfolio&gclid=CjwKCAjwhMmEBhBwEiwAXwFoEYxoze8JY0TXTi4Yq1W9bgg4DV10wdEpTmQpEm8mUJ0b5iRvK_RWahoCalQQAvD_BwE) || Ideas for Porfolio
+
 
 ## License
-Javascript, Css, Html, Jquery
 
-MIT © [Chidi Ekeke]()
+MIT © [Chidi Ekeke](https://github.com/chidibangzz)
+
+
+
+
+
+
+
+
+
+
